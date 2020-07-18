@@ -11,3 +11,4 @@ const loadable = (importFunc, { fallback = null } = { fallback: null }) => {
 };
 
 export default loadable;
+ 
